@@ -1,8 +1,7 @@
 module PackageName
 
-export PIPfullplot
-
 include("visualise.jl")
+using PIPPlottingModule
 # package code goes here
 
 
